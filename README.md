@@ -4,4 +4,4 @@
 
 ![asifbuet047's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asifbuet047&theme=radical&show_icons=true&hide_border=false&layout=compact)
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/asifbuet047/langs)](https://githubtrends.io)
+[![GitHub Trends SVG](https://www.githubwrapped.io/asifbuet047)](https://githubtrends.io)
