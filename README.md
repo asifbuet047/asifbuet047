@@ -25,10 +25,8 @@
 |Brand Shop| [Live site](https://assignment-10-brand-shop-b0762.web.app/)|[Code repo link](https://github.com/asifbuet047/brand-shop-client)|Project details [^3]|
 
 ## My top projects details
-[^1]: 
-### Project name: Skill Share
+[^1]: Project name: Skill Share
 ### Main feactures:
-
 1. Anyone can teach anybody from anywhere
 2. One can sign in anytime and become a student
 3. One can register with Google
@@ -36,10 +34,8 @@
 5. Admin can make anyone admin
 ---
 
-[^2]:
-### Project name: Community Food Sharing
+[^2]: Project name: Community Food Sharing
 ### Main feactures:
-
 1. Anyone in a communitu canshare his/her leftover meal
 2. One can sign in anytime and become a doner
 3. One can register with Google
@@ -47,8 +43,7 @@
 5. Any valid user can access food
 ---
 
-[^3]:
-### Project name: Brand Online Shop
+[^3]: Project name: Brand Online Shop
 ### Main features of Tech Brand Online Shop
 
 1. Our project is Tech Brand Online Shop
@@ -60,5 +55,5 @@
 7. User can add product in cart
 8. All cart product can be shown by clicking My Cart button at navigation bar
 9. User's profile image and his name is shown at navigation bar
----
+
 
