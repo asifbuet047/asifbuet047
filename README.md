@@ -2,7 +2,7 @@
 
 ### Hi there! 👋
 
-I'm MD ASIFUZZAMAN ASIF, a passionate MERN (MongoDB, Express.js, React.js, Node.js) stack developer. With a strong foundation in full-stack web development, I thrive on turning innovative ideas into high-quality, scalable applications and user friendly applications.
+I'm **MD ASIFUZZAMAN ASIF**, a passionate MERN (MongoDB, Express.js, React.js, Node.js) stack developer. With a strong foundation in full-stack web development, I thrive on turning innovative ideas into high-quality, scalable applications and user friendly applications.
 
 
 #### 🚀 Skills
