@@ -4,4 +4,9 @@
 
 ![asifbuet047's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asifbuet047&theme=radical&show_icons=true&hide_border=false&layout=compact)
 
-[![GitHub Trends SVG](https://www.githubwrapped.io/asifbuet047)](https://githubtrends.io)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asifbuet047&theme=cobalt)
+
+
+![Top Language by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asifbuet047&theme=cobalt)
+
+![Per hour commit stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asifbuet047&theme=cobalt&utcOffset=8)
