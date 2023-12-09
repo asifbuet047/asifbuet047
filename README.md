@@ -10,9 +10,8 @@ I'm MD ASIFUZZAMAN ASIF, a passionate MERN (MongoDB, Express.js, React.js, Node.
 - **Frontend:** React.js, MUO, HTML, CSS, JavaScript (ES6+)
 - **Backend:** Node.js, Express.js, MongoDB, Mongoose
 - **APIs:** RESTful APIs, GraphQL
-- **Tools & Platforms:** Git, npm, Webpack, Babel
-- **Testing:** Jest, Mocha, Chai
-- **Deployment:** Heroku, Netlify
+- **Tools & Platforms:** Git, npm, Yarn, Babel
+- **Deployment:** Vercel, Netlify
 
 #### 🌱 Always Learning
 
