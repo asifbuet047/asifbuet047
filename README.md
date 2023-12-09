@@ -1,4 +1,4 @@
-![Cover Image](https://ibb.co/7VV2p7Q)
+![Cover Image](https://i.ibb.co/1KK8XHM/7371507-3637613.jpg)
 
 ![asifbuet047's Stats](https://github-readme-stats.vercel.app/api?username=asifbuet047&theme=radical&show_icons=true&hide_border=false&count_private=true)
 
