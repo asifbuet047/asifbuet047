@@ -20,12 +20,13 @@
 # My top projects
 | Project Name| Live link|Code link|Details|
 |-------------|----------|----------|------|
-|Skill Share| [Live site](https://assignment-12-skill-share.web.app/)|[Code repo link](https://github.com/asifbuet047/skill-share-client)|Project details [^1]|
-|Food Sharing| [Live site](https://assignment-11-community-foods.web.app/)|[Code repo link](https://github.com/asifbuet047/food-sharing-client)|Project details [^2]|
-|Brand Shop| [Live site](https://assignment-10-brand-shop-b0762.web.app/)|[Code repo link](https://github.com/asifbuet047/brand-shop-client)|Project details [^3]|
+|Skill Share| [Live site](https://assignment-12-skill-share.web.app/)|[Code repo link](https://github.com/asifbuet047/skill-share-client)|Project features are listed below|
+|Food Sharing| [Live site](https://assignment-11-community-foods.web.app/)|[Code repo link](https://github.com/asifbuet047/food-sharing-client)|Project features are listed below|
+|Brand Shop| [Live site](https://assignment-10-brand-shop-b0762.web.app/)|[Code repo link](https://github.com/asifbuet047/brand-shop-client)|Project features are listed below|
 
 ## My top projects details
-[^1]: Project name: Skill Share
+---
+### Project name: Skill Share
 ### Main feactures:
 1. Anyone can teach anybody from anywhere
 2. One can sign in anytime and become a student
@@ -33,8 +34,7 @@
 4. Admin can see all useres activities
 5. Admin can make anyone admin
 ---
-
-[^2]: Project name: Community Food Sharing
+### Project name: Community Food Sharing
 ### Main feactures:
 1. Anyone in a communitu canshare his/her leftover meal
 2. One can sign in anytime and become a doner
@@ -42,8 +42,7 @@
 4. Admin can see all donation by all donars
 5. Any valid user can access food
 ---
-
-[^3]: Project name: Brand Online Shop
+### Project name: Brand Online Shop
 ### Main features of Tech Brand Online Shop
 
 1. Our project is Tech Brand Online Shop
